@@ -1,0 +1,1 @@
+This project implements an RSS feed parser that forwards newly generated news directly to a Telegram bot. It allows users to stay updated with the latest news from their favorite sources right in their Telegram chats.
